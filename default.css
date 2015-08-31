@@ -368,10 +368,13 @@ ul.contact li a.icon-rss:before
 	
 #header-wrapper
 {
-	background: #2b2b2b url(images/banner.jpg) no-repeat center;
+	background: #2b2b2b url(images/banner.jpg) no-repeat center center fixed;
 /*	background-size: auto 100%;*/
-	width:100%;
-}
+	  -webkit-background-size: cover;
+	  -moz-background-size: cover;
+	  -o-background-size: cover;
+	  background-size: cover;
+	}
 
 #header
 {
