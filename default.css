@@ -57,7 +57,7 @@ a:hover
 .container
 {
 	margin: 0px auto;
-	width: 1200px;
+	width: 100%;
 }
 
 /*********************************************************************************/
@@ -389,6 +389,7 @@ ul.contact li a.icon-rss:before
 	position: absolute;
 	top: 6em;
 	width: 100%;
+	left:5%;
 }
 
 #logo h1
@@ -561,7 +562,8 @@ ul.contact li a.icon-rss:before
 
 	#content
 	{
-		float: left;
+/*		float: left;*/
+		margin: 0 auto;
 		width: 700px;
 	}
 
