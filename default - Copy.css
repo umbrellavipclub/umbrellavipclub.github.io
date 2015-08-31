@@ -496,7 +496,7 @@ ul.contact li a.icon-rss:before
 #banner
 {
 	overflow: hidden;
-	width:100%;
+	width: 1000px;
 	text-align: center;
 	color: rgba(255,255,255,.7);
 	font-size: 1.5em;
@@ -564,7 +564,7 @@ ul.contact li a.icon-rss:before
 	{
 /*		float: left;*/
 		margin: 0 auto;
-		width: 70%;
+		width: 700px;
 	}
 
 /*********************************************************************************/
@@ -707,7 +707,7 @@ ul.contact li a.icon-rss:before
 #slider
 {
 	margin: 0em auto 0em auto;
-	width: 100%;
+	width: 1200px;
 	position: relative;
 }
 
@@ -721,7 +721,7 @@ ul.contact li a.icon-rss:before
 
 #slider .viewer
 {
-	width: 100%;
+	width: 1000px;
 	height: 375px;
 	margin: 0 auto;
 	overflow: hidden;
@@ -736,7 +736,7 @@ ul.contact li a.icon-rss:before
 #slider .viewer .reel .slide
 {
 	position: relative;
-	width: 100%;
+	width: 1000px;
 	height: 375px;
 }
 
@@ -745,7 +745,7 @@ ul.contact li a.icon-rss:before
 	position: absolute;
 	top: 130px;
 	left: 0;
-	width: 100%;
+	width: 1200px;
 	height: 80px;
 	line-height: 80px;
 	background: #111111;
@@ -761,7 +761,7 @@ ul.contact li a.icon-rss:before
 	position: absolute;
 	top: 210px;
 	left: 0;
-	width: 100%;
+	width: 1200px;
 	height: 40px;
 	line-height: 40px;
 	background: #0074C6;
